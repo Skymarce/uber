@@ -12,6 +12,9 @@ window.addEventListener('DOMContentLoaded', () => {
         item.addEventListener('click', () => {
             hamburger.classList.toggle('hamburger_active');
             menu.classList.toggle('menu_active');
-        })
-    })
-})
+        });
+    });
+});
+
+// Modal
+
